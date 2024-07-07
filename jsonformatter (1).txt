@@ -1,0 +1,23 @@
+Resume:
+Name: pavan kumar jagarlamudi
+Email: jj8465@srmist.edu.in
+Phone: 9059881632
+Education:
+- Degree: Bachelor of Science in Computer Science
+  Institution: SRM University
+  Year: 2025
+- 12th: Andhra Pradesh Board of Intermediate Education
+  Institution: Narayana group of institutions
+  Year: 2021
+Experience:
+- Position: Software Engineer Intern
+  Company: internship studio
+  Duration: Dec 2023 - Jan 2024
+  Responsibilities:
+    - Developed and tested software applications using Python and Django.
+    - Assisted in troubleshooting and debugging software issues.
+  Responsibilities:
+    - Conducted experiments and collected data for ongoing research projects.
+Skills:
+- Programming Languages: Python, Java, JavaScript
+- Technologies: Django, React, SQL
